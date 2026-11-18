@@ -344,3 +344,24 @@ Developed as an academic project to understand backend development, REST API cre
 ## License
 
 This project is created for educational and learning purposes.
+
+# postman-Get
+<img width="1469" height="918" alt="Screenshot 2026-11-18 at 9 00 22 AM" src="https://github.com/user-attachments/assets/b599362a-e6de-4348-9ad6-a149b582246b" />
+
+# postman-Get/BY-ID
+<img width="1470" height="929" alt="Screenshot 2026-11-18 at 10 44 38 AM" src="https://github.com/user-attachments/assets/cde1d755-fdac-42c6-af8c-9d02cf1cc9d6" />
+
+# postman-post
+<img width="1460" height="914" alt="Screenshot 2026-11-18 at 8 59 30 AM" src="https://github.com/user-attachments/assets/3cdd10ed-3609-44b8-b064-c3e2a66ab609" />
+
+# postman-put
+<img width="1470" height="927" alt="Screenshot 2026-11-18 at 9 05 09 AM" src="https://github.com/user-attachments/assets/18a46375-4f33-4596-98f5-e740d2d30b78" />
+
+# postman-delete
+<img width="1470" height="932" alt="Screenshot 2026-11-18 at 9 06 48 AM" src="https://github.com/user-attachments/assets/31e9cb7e-bbc4-42d9-b41d-0f9d92bd0a9f" />
+
+# postman-get/low-stock
+<img width="1470" height="922" alt="Screenshot 2026-11-18 at 10 17 29 AM" src="https://github.com/user-attachments/assets/fa652f43-2deb-4690-9da4-5a5a179578b0" />
+
+# postman-get-summary
+![Uploading Screenshot 2026-11-18 at 10.29.11 AM.png…]()
